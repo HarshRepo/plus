@@ -13,7 +13,6 @@
   display: flex;
   flex-direction: column;
   gap: 10px;
-  /* // hello */
 }
 
 .card > div > button:first-child{
